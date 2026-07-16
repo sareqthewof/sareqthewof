@@ -1,5 +1,5 @@
 <h1 align="left">
-$${\color{#ffa06a}\text{heli}}$$  
+$${\color{#f01600}\text{DO NOT CHOSE THIS OPTION}}$$  
 </h1>
 
 
