@@ -1,3 +1,3 @@
 <p>
-  <img src="file/banner.png" width="50%">
+  <img src="file/photo_5350285596250806105_x.jpg" width="50%">
 </p>
