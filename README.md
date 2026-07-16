@@ -1,3 +1,3 @@
-<p>
-  <img src="file/photo_5350285596250806105_x.jpg" width="50%">
+<p align="center">
+  <img src="file/c5ebfaf8-a4c1-4189-b1a5-734c7815dc51.jfif" width="50%">
 </p>
