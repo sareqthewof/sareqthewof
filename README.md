@@ -1,5 +1,5 @@
 <h1 align="left">
-$${color{#0000}\text{heli}}$$  
+$${\color{#0000}\text{heli}}$$  
 </h1>
 
 
